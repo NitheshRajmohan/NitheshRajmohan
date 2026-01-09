@@ -16,7 +16,7 @@
 
 I am an **ML Engineer** with 3.5+ years of experience architecting scalable pipelines and deploying end-to-end production solutions. My core expertise lies in **Document Intelligence (IDP)**, **RAG Systems**, and **Multimodal LLM workflows**.
 
-- 🔭 I’m currently building: **Multimodal RAG pipelines (COLPALI + Qwen2-VL)** for cross-page analytics.
+- 🔭 I’m currently building: **Multimodal RAG pipelines** for cross-page analytics.
 - 💼 Experience: **Santa Fe Research**, developing production-grade Bank Statement Extraction & IDP systems.
 - 🌱 I’m currently exploring: **Advanced Agentic Workflows** and **Hierarchical Taxonomy Generation**.
 - 🎓 Education: **M.Sc in AI** (Northumbria University, UK).
